@@ -1,0 +1,10 @@
+{
+  "db": {
+      "url": "mongodb://127.0.0.1:27017",
+      "dbName": "admin",
+      "collectionName": "Data"
+    },
+  "csv": {
+    "fileFullPath": "public/data"
+  }
+}
